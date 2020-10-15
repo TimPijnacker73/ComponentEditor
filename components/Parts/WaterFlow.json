@@ -1,11 +1,14 @@
 {
   "name": "WaterFlow",
-  "symbol": "https://res.cloudinary.com/circuito/image/upload/xdsxmhb374ntom6vokki",
   "displayName": "Water Flow Sensor G1/2''",
+  "desc": "",
+  "symbol": "https://res.cloudinary.com/circuito/image/upload/xdsxmhb374ntom6vokki",
   "category": [
     "input"
   ],
-  "desc": "",
+  "placing": {
+    "onBreadboard": false
+  },
   "bom": [
     {
       "name": "octopart",
@@ -18,8 +21,5 @@
   "info": {
     "setup": "",
     "test": ""
-  },
-  "placing": {
-    "onBreadboard": false
   }
 }
